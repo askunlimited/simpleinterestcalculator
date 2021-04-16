@@ -21,4 +21,12 @@ h1  {
     margin 30px auto;
 }
 
+label {
+    display: block;
+    text-align: left;
+    clear: left;
+    width: 100px;
+    
+}
+
 
