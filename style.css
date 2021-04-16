@@ -22,7 +22,7 @@ h1  {
 }
 
 label {
-    display: block;
+    display: inline-block;
     text-align: left;
     clear: left;
     width: 100px;
